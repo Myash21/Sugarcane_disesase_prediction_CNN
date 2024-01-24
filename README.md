@@ -6,3 +6,5 @@ Created a custom covnet with 3 convolutional layers followed by 4 dense layers.U
 data augmentation(RandomContrast, RandomFlip(horizantal_and_vertical), RandomRotation as the dataset contained images taken from various different angles),
 earlystopping to help prevent overfitting.
 Implemented epoch wise learning rate decay which gives a smoother curve comparatively.
+
+Sorry for making you scroll down for so long:(
